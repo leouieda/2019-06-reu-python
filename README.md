@@ -43,6 +43,8 @@ publication quality figures, and save the output.
 | *Introductions* |
 | Computational thinking exercise |
 | **Day 2** |
+| Variables, data types, and operations |
+| **Day 3** |
 | TBD |
 | ... |
 
