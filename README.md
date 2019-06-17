@@ -48,7 +48,13 @@ publication quality figures, and save the output.
 | TBD |
 | ... |
 
+## Running Python online
 
+You can run Python online for this workshop at: 
+https://mybinder.org/v2/gh/leouieda/2019-06-reu-python/master?urlpath=lab 
+
+This can be used in case you didn't manage to install
+Python in time.
 ## Shared class notes
 
 We'll use Google Docs to edit shared class notes.
