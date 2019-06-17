@@ -1,0 +1,13 @@
+name: reupython
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - ipython
+  - requests
